@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+using the diff utility help me to compared two versions of a file one old and one new. as the two files were
+more than one thousand lines of code in each one of them it becomes pretty tedious to look manually, however, 
+diff command automatically finds the changes including added and removed lines of codes, hence easier to scan
+them and find the bugs.  
+
+How could having easy access to the entire history of a file make you a more efficient programmer 
+in the long term?
+
+by looking at the history of a file it makes a lot more efficient the task of improving the code as we constantly
+take desicions and due to our imperfect nature we are prone to make mistakes so having the capability to go 
+back and fix the errors it would be the perfect scenario for a flawless world.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+
+the pros 
+-saving manually gives more control on the managament of files for instance the desicion making to commit a file lies
+in the coder's hands 
+-with expertise a coder has a more correct judgement when to commit a file
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like
+Google Docs, treat each file separately?
+
+i think that saving files in one commit makes more sence rather than commit each file separetly since it is easily to see 
+what file were not changed and look at the file that were changed
+
+How can you use the commands git log and git diff to view the history of files?
+
+i can use the git log to view the files ids and its details and then use the command git diff to view the changes made
+during commits
+
+How might using version control make you more confident to make changes that could break something?
+
+using version control allows us to feel safe from the making changes as we can go back to different versions and undo any mistake
+
+How Do You Want to Use Git?
+
+i want to used git for all my project from small to large in case in the future any small project require more functions or require 
+to be scalable
+
+
+
+
+

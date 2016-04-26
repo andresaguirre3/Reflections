@@ -1,0 +1,26 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+the repository is created with a .git file and it will be the base file for version control 
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+the staging area works like an intermidiate between the working directory and the repository. 
+it offers the possibility to have more control over the commits and files
+
+How can you use the staging area to make sure you have one commit per logical change?
+by using the stagin area one can compare it with the repository and check whether the changes 
+correspond to the logical change or more logical changes.
+
+When to Use Branches
+branches would useful for certain scenarios such as experimenting with the original project to change or add different functionalities or maybe to divide tasks with different people and then merging to a certain phase of the project
+
+Visualizing with Diagrams
+diagrams are usel to record the commits when git it is in detached mode 
+
+What is the result of merging two branches together?
+the result is the combination of the files from two different branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+the pros of manual merging is that there is more control a less risk of messing with the code
+the cons is that it might take take to figure out what changes must be save and commit
