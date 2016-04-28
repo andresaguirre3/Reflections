@@ -10,3 +10,11 @@ have dozens of unknown files.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 branches is a hierarchical history of commits starting from a base node to the latest node or last commit following a logical path defined by the branch. forks are clones between the githab servers in which can keep track the numbers of forks made by other account in githab. clones can happen in githab server and local computers.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+the benefits is that by knowing the last state of the remote locally one can know if the branch in the remote has changed thus in this manner the local repository can be compared with the previous state with current state in the remote branch and find conflicts y avoid to lost any work done in either way locally and remottely 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+another way to collaborate with other people would be via other version control system such as dropbox, 
+however, it would be harder to maintain the project as this would be update automatically as well as overriding features or functions. it would be harder to fix conflicts if one wants to update to a new version based on the work of another person. using git and githab this would solve many of these problem 
+as a result have an easier environment to work with other people. 
+
